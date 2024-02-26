@@ -1,10 +1,10 @@
 {
-    "name": "stougeiro/stdw-contract-cache",
+    "name": "stougeiro/cache-contract",
     "type": "package",
     "license": "MIT",
     "authors": [
         {
-            "name": "S.Tougeiro",
+            "name": "stougeiro",
             "email": "sidneytougeiro@gmail.com"
         }
     ],
