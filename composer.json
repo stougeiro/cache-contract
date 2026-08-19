@@ -1,6 +1,6 @@
 {
     "name": "stougeiro/cache-contract",
-    "description": "",
+    "description": "Minimal cache contract package defining the essential interfaces for a plug-and-play caching layer. Provides a lightweight CacheInterface with basic operations for storing, retrieving, checking, deleting and clearing cached values in modular PHP applications.",
     "type": "library",
     "minimum-stability": "stable",
     "prefer-stable": true,
@@ -12,6 +12,18 @@
         }
     ],
     "keywords": [
+        "cache",
+        "cache-contract",
+        "cache-interface",
+        "cache-core",
+        "cache-layer",
+        "cache-storage",
+        "cache-operations",
+        "php-cache",
+        "caching",
+        "modular",
+        "lightweight",
+        "high-performance"
     ],
     "support": {
         "issues": "https://github.com/stougeiro/cache-contract/issues",
