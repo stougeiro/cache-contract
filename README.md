@@ -52,6 +52,6 @@ It allows any cache engine to be replaced without impacting the application code
 Contributions are welcome.
 Feel free to open issues or submit pull requests.
 
-<br><br>
+<br>
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="170"/>](https://www.buymeacoffee.com/stougeiro)
